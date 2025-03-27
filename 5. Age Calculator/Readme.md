@@ -1,0 +1,5 @@
+![aws bootstrap](end.png 'Output')  
+
+## How the Age Calculator Code Works:
+
+This Age Calculator application is built using Python's tkinter library for the graphical user interface and the datetime module to handle date calculations. The interface contains a text field where the user can enter their date of birth in the format YYYY-MM-DD. When the user clicks the "Calculate Age" button, the program retrieves the entered date and uses datetime.strptime to convert it into a date object. It then calculates the age by comparing the current date with the user's birth date, accounting for differences in years, months, and days. If the birth day or month is ahead of today's date, the logic adjusts the values to ensure the age is accurate. The result is displayed below the button, showing the user's age in years, months, and days. If the input format is incorrect, an error message is shown using a message box. The app runs inside a fixed-size window and provides a user-friendly way to compute age from a date of birth.
