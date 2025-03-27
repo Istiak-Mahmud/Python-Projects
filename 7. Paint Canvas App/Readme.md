@@ -1,0 +1,5 @@
+![aws bootstrap](end.png 'Output')  
+
+## How the Paint Canvas Code Works:
+
+This Paint Application is built using Python's tkinter library and provides a simple interface for freehand drawing. The main window features a white canvas where users can draw by clicking and dragging the mouse. The brush is simulated by drawing small ovals on the canvas as the mouse moves, with the default color set to black. Users can change the brush color using the "Choose Color" button, which opens a color picker dialog. The selected color is applied to all future strokes. There is also a "Clear Canvas" button that clears all drawings by deleting all items from the canvas. The program uses the <B1-Motion> event to track mouse movements while the left button is held down, allowing for smooth and continuous drawing. The layout is organized using frames and buttons, making the application easy to use and responsive.
