@@ -1,0 +1,5 @@
+![aws bootstrap](end.png 'Output')  
+
+## How the Digital Clock Code Works:
+
+This digital clock program uses Python’s tkinter library to create a simple graphical window and the time module (specifically strftime) to get the current time. The main window is created using tk.Tk() and customized with a fixed size, black background, and a centered label to display the time. The update_time() function is responsible for fetching the current time in the format HH:MM:SS AM/PM using strftime('%H:%M:%S %p'). It updates the text of the label with the current time and schedules itself to run again every 1000 milliseconds (1 second) using label.after(1000, update_time). This creates a loop that updates the clock in real time. Finally, root.mainloop() runs the GUI loop, keeping the application window open and responsive. The result is a live digital clock with bold cyan text on a black background.
