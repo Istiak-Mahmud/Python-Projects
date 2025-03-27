@@ -1,3 +1,5 @@
+![aws bootstrap](output.png 'Output')  
+
 ## How the Calculator Code Works:
 
 The calculator program is a simple command-line tool that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program begins by defining four functions—add(), subtract(), multiply(), and divide()—each responsible for carrying out the respective mathematical operation on two input values.
