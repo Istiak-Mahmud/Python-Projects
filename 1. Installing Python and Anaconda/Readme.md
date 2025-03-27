@@ -48,3 +48,9 @@ This repository provides a beginner-friendly guide to install **Python** using t
 **Example:**
 ```python
 print("Hello, Anaconda & Spyder!")
+
+
+## Watch the Video Tutorial
+
+For a full walkthrough, watch the step-by-step tutorial here:  
+[How to Install Anaconda and Use Spyder](https://youtu.be/PCpVTjRamG4?si=biBVA3oA9J-qE_C6)
