@@ -1,4 +1,5 @@
 ![aws bootstrap](output.gif 'Output')  
+![aws bootstrap](end.png 'Finish')  
 
 ## How the Snake Game Code Works:
 
