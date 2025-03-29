@@ -1,0 +1,5 @@
+![aws bootstrap](end.png 'Output')  
+
+## How the ChatBot Code Works:
+
+This Python chatbot uses the tkinter library to create a graphical user interface (GUI) where users can interact with a simple rule-based chatbot. The interface includes a scrollable text area to display the conversation history, a text entry box for user input, and a "Send" button to submit messages. When the user types a message and clicks "Send" (or presses the Enter key), the program captures the input and passes it to a function that processes the text using basic if-elif conditions to generate a relevant response. The chatbot can recognize greetings, basic questions like the current time, and predefined prompts, and will reply with hardcoded responses. The user's message and the chatbot's reply are both displayed in the conversation window. The chat box is made read-only to prevent direct editing, and it automatically scrolls to show the most recent messages. This project demonstrates a simple and clean way to combine GUI development with basic chatbot logic in Python.
