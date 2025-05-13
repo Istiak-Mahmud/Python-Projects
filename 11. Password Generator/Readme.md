@@ -1,5 +1,5 @@
 ## Output:
-![aws bootstrap](test.jpg 'Result')  
+![aws bootstrap](test.png 'Result')  
 
 ## How Code Works:
 
