@@ -1,0 +1,5 @@
+![aws bootstrap](output.png 'Output')  
+
+## How the Rock Paper Scissors Game Code Works:
+
+This code implements a simple Rock Paper Scissors game using Python’s Pygame library. The graphical interface displays three large colored buttons labeled "Rock," "Paper," and "Scissors." Players select their move by clicking one of these buttons, while the computer randomly selects its own move. After each round, the result (win, lose, or draw) and updated scores are displayed beneath the buttons. There are also "RESET" and "Leader Board" buttons for restarting the scores and (optionally) showing a popup leaderboard message, respectively. The interface is kept minimal with only text labels for each option, no images or art. The main loop continuously draws the interface and handles user input, updating scores and displaying results in real time until the window is closed. The code demonstrates core Pygame concepts: drawing rectangles, rendering text, handling events, and basic game logic.
